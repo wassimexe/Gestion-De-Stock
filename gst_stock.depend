@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1736242156 source:c:\users\user\desktop\gestion de stock\gst_stock\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stock.h"
+
+1736700479 c:\users\user\desktop\gestion de stock\gst_stock\stock.h
+
+1736704781 source:c:\users\user\desktop\gestion de stock\gst_stock\stock.c
+	"stock.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
